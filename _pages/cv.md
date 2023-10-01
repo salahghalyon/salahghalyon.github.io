@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Computer Engineering, Hashemite University - Jordan, 2013
+* M.S. Computer Engineering / Embedded Systems, Yarmouk University - Jordan, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2013 – Sep 2013: Software Developer (Paid training)
+  * Hybrid Solutions
+  * Duties included: upgrade VertexFX trader and add more features to it
+  
+* Sep 2013 – Feb 2014: Software Developer
+  * KETAB Technologies
+  * Duties included: develop the handler program used in preparing interactive lessons that work on all interactive white-boards
+  
+* Current, from Sep 2014: Lab Instructor
+  * Hashemite University
+  * Duties included: Maintenance and Modification of laboratory experiments and development of new experiments and exercises on a continuous basis, and Assessment of the performance of students and submission of grades for assigned courses
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming
+  * Python
+  * Java
+  * C++
+  *C#
+  *VB.net
+* Hardware Design 
+  *VHDL 
+  
 
 Publications
 ======
