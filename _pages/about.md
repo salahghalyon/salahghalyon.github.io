@@ -25,5 +25,4 @@ Research Interests
 1. Machine Learning.
 1. Robotics.
 
-#**Markdown generator**
 
