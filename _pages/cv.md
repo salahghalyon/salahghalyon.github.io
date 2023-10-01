@@ -40,7 +40,7 @@ Skills
   * C#
   * VB.net
 * Hardware Design 
-  *VHDL 
+  * VHDL 
   
 
 Publications
