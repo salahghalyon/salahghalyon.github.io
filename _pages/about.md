@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Salah AbuGhalyon was born in Amman, Jordan, in 1991. He received his BSc. Degree in Computer Engineering from the Hashemite University in 2013, and a M.Sc. Degree in Computer Engineering/Embedded Systems from Yarmouk University in 2016. He has been certified as HUAWEI AI Instructor in 2020. 
-His current research interest includes cyber-physical security, risk assessment of cyber physical threats. Presently,He is an assistant researcher on a project titled "Analyzing Smart Grid Resilience Under Cyber-Physical Threats," funded by the Scientific Research and Innovation Support Fund under the Ministry of Higher Education, Jordan.[academicpages template](https://cyberssgridhu.github.io/index.html).
+His current research interest includes cyber-physical security, risk assessment of cyber physical threats. Presently,He is an assistant researcher on a project titled "Analyzing Smart Grid Resilience Under Cyber-Physical Threats," funded by the Scientific Research and Innovation Support Fund under the Ministry of Higher Education, Jordan.[CyberSSGridHU](https://cyberssgridhu.github.io/index.html).
 
 Certificates
 ======
