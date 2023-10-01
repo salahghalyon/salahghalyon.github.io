@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 title: "Eng.Salah Abu Ghalyon"
 author_profile: true
 redirect_from: 
