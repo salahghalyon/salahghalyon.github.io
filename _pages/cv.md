@@ -37,8 +37,8 @@ Skills
   * Python
   * Java
   * C++
-  *C#
-  *VB.net
+  * C#
+  * VB.net
 * Hardware Design 
   *VHDL 
   
