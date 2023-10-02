@@ -45,7 +45,7 @@ Skills
   * VB.net
 * Hardware Design 
   * VHDL 
-*Machine Learning
+* Machine Learning
   
 
 Publications
