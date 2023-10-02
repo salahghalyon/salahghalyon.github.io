@@ -5,7 +5,7 @@ permalink: /publication/2022-05-30-Quantitative-impact-analysis-of-application-l
 excerpt: 'Quantitative impact analysis of application-level attacks on a robotic platform'
 date: 2022-05-30
 venue: 'International Journal of Electronic Security and Digital Forensics'
-paperurl: 'http://salahghalyon.github.io/files/paper3.pdf'
+paperurl: 'https://www.inderscienceonline.com/doi/pdf/10.1504/IJESDF.2022.123846'
 ---
 
 [Download paper here](https://www.inderscienceonline.com/doi/pdf/10.1504/IJESDF.2022.123846)
