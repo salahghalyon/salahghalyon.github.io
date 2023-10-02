@@ -8,9 +8,9 @@ date: 2014-9-21
 location: "Zarqa, Jordan"
 ---
 
+Teaching Labs : Computer Networks Lab, Wireless Netwokrs Lab, Embedded Systems Lab and Digital Logic Lab.
 
-
-
+### The Lab instructor is responsible of:
 1. Maintenance of existing laboratory experiments and the apparatus associated with them.
 1. Modification of experiments and design exercises in consultation with other teaching staff and faculty.
 1. Provision of technical support for the purchase of new laboratory equipment and software, and recommendations for replacement of laboratory equipment.
