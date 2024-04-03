@@ -5,7 +5,7 @@ permalink: /publication/2023-12-22-Smart-Grid-Resilience-for-Grid-Connected-PV-a
 excerpt: '2024-02-26-Enhancing resilience of advanced power protection systems in smart grids against cyber–physical threats'
 date: 2024-02-26
 venue: 'IET renewable power generation '
-paperurl: 'http://salahghalyon.github.io/files/paper5.pdf'
+paperurl: 'https://doi.org/10.1049/rpg2.12957'
 ---
 
 [Download paper here](https://doi.org/10.1049/rpg2.12957)
